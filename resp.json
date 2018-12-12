@@ -1,0 +1,42 @@
+{
+  "faultCodes":[
+    {"id":"454244","name":"Compressor fault"},
+    {"id":"1616033655","name":"Control/capillary line"},
+    {"id":"10829369675","name":"Electrical failure"},
+    {"id":"383742137","name":"Fan Broken"},
+    {"id":"73286","name":"LCD Fault 1"},
+    {"id":"1616033661","name":"Mechanical joint"},
+    {"id":"1616033666","name":"Pipe failure"},
+    {"id":"108866292","name":"Pipe failure"},
+    {"id":"12070449958","name":"Test"},
+    {"id":"1616033652","name":"Top up after compressor change"},
+    {"id":"73265","name":"Valve"},
+    {"id":"1616033651","name":"Valve"},
+    {"id":"1616033667","name":"Welded joint"}
+  ],
+  "actionCodes":[
+    {"id":"10829247444","name":"Cleaned"},
+    {"id":"10829333892","name":"Inspection"},
+    {"id":"10829366114","name":"Repaired"},
+    {"id":"302268664","name":"Serviced Unit"},
+    {"id":"13282941047","name":"System Integrity Check"},
+    {"id":"454979","name":"Tagged for 20 days"}
+  ],
+  "technicians":[
+    {"id":"15426321971","name":"David Marks"},
+    {"id":"13249011159","name":"ERM Test Technician"},
+    {"id":"14937825863","name":"Rick Sanchez"}
+  ],
+  "previousAmountAdded":"30.0",
+  "previousAmountRecovered":"0.0",
+  "previousServiceReferenceNumber":"345345",
+  "previousFault":"Electrical failure",
+  "previousAction":"Cleaned",
+  "previousEngineer":"14937825863",
+  "previousComment":"fjdklfjdk",
+  "siteSystemId":"15461440986",
+  "workOrderSiteSystemId":"15490899360",
+  "workOrderSiteSystemEventId":"15490899376",
+  "useDateLeakDetected":true,
+  "serviceDate":"08/27/2018"
+}
